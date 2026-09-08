@@ -1,0 +1,28 @@
+# contexto de trabajo
+CLAUDE.md
+contexto*.md
+
+# scripts de trabajo
+*.sh
+
+# entornos
+.venv/
+venv/
+env/
+.env
+
+# python
+__pycache__/
+*.py[cod]
+
+# jupyter
+.ipynb_checkpoints/
+
+# editores
+.vscode/
+.idea/
+
+# sistema
+.DS_Store
+Thumbs.db
+desktop.ini
